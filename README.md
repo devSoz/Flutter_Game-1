@@ -1,4 +1,4 @@
-# testproject
+# Flutter Game
 
 A new Flutter project.
 
